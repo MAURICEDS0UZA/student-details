@@ -1,0 +1,38 @@
+  
+  :root{
+    --primary-color:blueviolet;
+    --secondary-color:#99ff99;
+    --text-white: antiquewhite;
+    --off-color: #00ccff;
+    --hight-point:#810e6f;
+  }
+  
+  nav{
+    background-color: var(--secondary-color);
+    text-align: center;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius:  2rem;
+  }
+  .navheading{
+    font-weight: bold;
+    font-size: x-large;
+  }
+  .list-line{
+    display: inline;
+    padding: 0rem 0.5rem;
+    color: white;
+  }
+
+  .container-center{
+    text-align: center;
+    color: var(--primary-color);
+  .first-heading{
+    font-weight: bolder;
+    color: var(--primary-color);
+  }
+  .highlight-heading{
+    color:var(--hight-point);
+  }
+  .first-heading{
+    text-;
+  }
